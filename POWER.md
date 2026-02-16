@@ -162,3 +162,5 @@ For issues or questions:
 - Leverage lists to represent workflow stages
 - Use organizations for team collaboration
 - Keep your API key secure and never commit it to version control
+- Make sure only one MCP server is created
+- Make sure the name of the MCP server is kiro-power-trello
