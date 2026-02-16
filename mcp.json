@@ -10,7 +10,16 @@
       "env": {
         "TRELLO_API_KEY": ""
       },
-      "autoApprove": []
+      "autoApprove": [
+        "list_boards",
+        "get_board",
+        "list_board_lists",
+        "list_board_cards",
+        "get_card",
+        "list_organizations",
+        "list_organization_boards",
+        "list_organization_members"
+      ]
     }
   }
 }
