@@ -3,7 +3,6 @@
      "trello": {
       "command": "uvx",
       "args": [
-        "--from",
         "trello-mcp-server"
       ],
       "env": {
