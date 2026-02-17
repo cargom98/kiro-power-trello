@@ -4,8 +4,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "trello-mcp-server",
-        "trello_mcp_server"
+        "trello-mcp-server"
       ],
       "env": {
         "TRELLO_API_KEY": ""

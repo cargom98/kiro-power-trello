@@ -1,6 +1,6 @@
 ---
 name: Trello
-version: 1.2.0
+version: 2.0.1
 description: Manage Trello boards, lists, cards, and organizations directly from Kiro. Get your API key at https://trello.com/power-ups/admin/new (free, takes seconds). First use opens browser for OAuth authorization.
 author: cargom98
 keywords:
